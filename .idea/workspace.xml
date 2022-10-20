@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94949049-daea-47af-8bc6-d15cf9b88d50" name="Changes" comment="SuperCambio, gracias">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="94949049-daea-47af-8bc6-d15cf9b88d50" name="Changes" comment="3 cambio del programa">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666234305499</updated>
-      <workItem from="1666234313883" duration="1911000" />
+      <workItem from="1666234313883" duration="2768000" />
     </task>
     <task id="LOCAL-00001" summary="SuperCambio, gracias">
       <created>1666235887067</created>
@@ -55,7 +55,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666235887067</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="3 cambio del programa">
+      <created>1666236499298</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666236499298</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,6 +81,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="SuperCambio, gracias" />
-    <option name="LAST_COMMIT_MESSAGE" value="SuperCambio, gracias" />
+    <MESSAGE value="3 cambio del programa" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 cambio del programa" />
   </component>
 </project>
